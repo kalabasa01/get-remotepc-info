@@ -33,3 +33,10 @@ Simple Powershell Script that will help to get remote computer information such 
 - Command Prompt
 - Connected to domain
 - Administrator Privileges
+
+## Sample Screenshots
+### Sample Picture
+  <img src="screenshots/sample1.png" width="500">
+  
+### Sample Picture
+  <img src="screenshots/sample2.png" width="500">
